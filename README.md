@@ -13,6 +13,6 @@ TO DO<br>
 接下去想做的是自动化一类，比如爬取后一个电影后自动在网上搜索BT资源，然后加入百度网盘离线下载到自己网盘里。 <br>
 Next I want to do is Automatic batch producing, eg. type in a score s, then it will get all the movie whose score is higher than s, then search in the p2p(bt) network get the resource and copy it into computer.<br>
 还有就是把电影信息放进Excel之类 <br>
-然后分析提取信息，比如从国家角度看哪些国家盛产高分电影，艺术电影导演经常分布在哪个国家等等。
-Finally, analysis.<br>
+然后分析提取信息，比如从国家角度看哪些国家盛产高分电影，艺术电影导演经常分布在哪个国家等等。<br>
+and, analysis.<br>
 eg.which country can produce high quality film, art-movie directors are always born in which region?<br>
